@@ -1,2 +1,2 @@
 # Flash-or-php-Update-sample
-Flash +  php  + Update + Sample
+Flash-or php Update sample
